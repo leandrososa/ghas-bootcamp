@@ -9,4 +9,3 @@ updates:
     directory: "/" # Location of package manifests
     schedule:https://github.com/leandrososa/ghas-bootcamp/tree/main
       interval: "weekly"
-    
